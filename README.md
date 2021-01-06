@@ -19,7 +19,9 @@ Please refer the below link for more details about Menu package .
 https://pypi.org/project/Menu/#description.
 
 	 2. **Using requirement.txt file**
+	 
 	 		 1. Go to root dir  `AWS_BOTO3` 
+			 
 	 		 2. Run requirement.txt file
 	 		 
 			>py(or python) -m pip install -r requirement.txt 
@@ -58,7 +60,7 @@ https://pypi.org/project/Menu/#description.
 
 #### Main Menu
 ![enter image description here](https://raw.githubusercontent.com/GitPointer/aws_boto3/main/main_menu.png)
- >`Press-1` for navigate to EC2 Menu. 
+>`Press-1` for navigate to EC2 Menu. 
  
 > `Press-2` for navigate to EBS Menu.
 
