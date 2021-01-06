@@ -29,7 +29,7 @@ https://pypi.org/project/Menu/#description.
 
 ## Configuration
 
-### 1. `config.py` Class
+### 1. `config.py`
 
 #### Below are the config parameter defined in `config.py` class.
 
