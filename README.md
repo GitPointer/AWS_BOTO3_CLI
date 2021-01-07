@@ -31,7 +31,7 @@ https://pypi.org/project/Menu/#description.
 
 ### 1. `config.py`
 
-#### Below are the config parameter defined in `config.py` class.
+#### Below are the config parameter defined in `config.py`.
 
  1. AWS_REGION **(default `eu-west-1`)**
  2. WINDOWS_AMI_ID **(default `ami-035e11a5d21b976ed`)**
