@@ -21,8 +21,7 @@ https://pypi.org/project/Menu/#description.
 	 2. **Using requirement.txt file**
 	 
 	 		 1. Go to root dir  `AWS_Boto3` 
-	 		 
-			 2. Run requirements.txt file
+	 		 2. Run requirements.txt file
 	 		 
 			>py(or python) -m pip install -r requirements.txt 
     
