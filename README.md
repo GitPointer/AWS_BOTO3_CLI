@@ -20,7 +20,7 @@ https://pypi.org/project/Menu/#description.
 
 	 2. **Using requirement.txt file**
 	 
-	 		 1. Go to root dir  `AWS_BOTO3` 
+	 		 1. Go to root dir  `AWS_Boto3` 
 			 
 	 		 2. Run requirements.txt file
 	 		 
@@ -51,7 +51,7 @@ https://pypi.org/project/Menu/#description.
  - Each line of which will contain a username+password pair, and their AWS access key id and secret access key, all separated by tabs.
 
 ## RUN
- 1. Go to root dir  `AWS_BOTO3` 
+ 1. Go to root dir  `AWS_Boto3` 
  2. Run below command 
 		  >`py(or python) AwsCli.py`
 3. Input User Name and Password for Login
