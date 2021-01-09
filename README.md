@@ -4,6 +4,7 @@
  		
 		1. Python 3.x(Recommended 3.4 and above)
 		2. PIP(PIP is a package manager for Python packages)
+      
       > **Note:** If you have Python version 3.4 or later, PIP is included by default.
 
 
@@ -25,6 +26,7 @@ https://pypi.org/project/Menu/#description.
 	 		 2. Run requirements.txt file
 	 		 
 			>py(or python) -m pip install -r requirement.txt 
+    
     > **Note:** `py` usually does not exist on Linux, unless you set an alias or symlink yourself. You can check with `which python` and `which py` to see what these commands actually are.
 
 ## Configuration
@@ -53,7 +55,9 @@ https://pypi.org/project/Menu/#description.
 ## RUN
  1. Go to root dir  `AWS_Boto3` 
  2. Run below command 
+		  
 		  >`py(or python) AwsCli.py`
+		  
 3. Input User Name and Password for Login
 
 ## Menu Description
