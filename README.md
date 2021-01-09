@@ -22,7 +22,7 @@ https://pypi.org/project/Menu/#description.
 	 
 	 		 1. Go to root dir  `AWS_BOTO3` 
 			 
-	 		 2. Run requirement.txt file
+	 		 2. Run requirements.txt file
 	 		 
 			>py(or python) -m pip install -r requirement.txt 
     > **Note:** `py` usually does not exist on Linux, unless you set an alias or symlink yourself. You can check with `which python` and `which py` to see what these commands actually are.

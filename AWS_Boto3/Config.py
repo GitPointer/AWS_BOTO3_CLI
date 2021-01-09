@@ -1,0 +1,10 @@
+AWS_REGION = "eu-west-1"
+WINDOWS_AMI_ID = "ami-035e11a5d21b976ed"
+LINUX_AMI_ID = "ami-0ce1e3f77cd41957e"
+WINDOWS_FREE_TIER_INSTANCE_TYPE = "t2.micro"
+LINUX_FREE_TIER_INSTANCE_TYPE = "t2.micro"
+OWNER_ID = ""
+AVAILABILITY_ZONE = "eu-west-1a"
+UPLOAD_DIR_FOR_S3 = './s3_upload/'
+DOWNLOAD_DIR_FOR_S3 = './s3_download/'
+CPU_ALARM_TOPIC_NAME = "cpu_alarm"
