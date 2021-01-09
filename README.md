@@ -1,5 +1,4 @@
- # AWS BOTO3 CLI-User Manual
- ## Installation
+Installation
  1. **Prerequisite**
  		
 		1. Python 3.x(Recommended 3.4 and above)
