@@ -1,4 +1,4 @@
-Installation
+## Installation
  1. **Prerequisite**
  		
 		1. Python 3.x(Recommended 3.4 and above)
@@ -18,10 +18,11 @@ Installation
 Please refer the below link for more details about Menu package . 
 https://pypi.org/project/Menu/#description.
 
-	 2. **Using requirement.txt file**
+	 2. **Using requirements.txt file**
 	 
 	 		 1. Go to root dir  `AWS_Boto3` 
-	 		 2. Run requirements.txt file
+	 		 
+			 2. Run requirements.txt file
 	 		 
 			>py(or python) -m pip install -r requirements.txt 
     
